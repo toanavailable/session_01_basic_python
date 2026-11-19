@@ -6,3 +6,4 @@ Tổng hợp bài tập và mindmap của Session 01 (Python cơ bản). Mỗi b
 
 - [Mindmap Python cơ bản (Lesson 01–05)](./mind-map-python-co-ban/)
 - [Quản lý thẻ bệnh nhân bằng Python Console](./the-benh-nhan/)
+- [Quản lý phòng khám - Sửa lỗi in Phiếu khám bệnh](./quan-ly-phong-kham/)
